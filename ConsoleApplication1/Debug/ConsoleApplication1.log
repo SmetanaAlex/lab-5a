@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Tree.h(149,1): warning C4804: >: небезопасное использование типа "bool" в операции
+H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Tree.h(159,1): warning C4804: >: небезопасное использование типа "bool" в операции
+  List.cpp
+  Tree.cpp
+H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Dictionary.h(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Tree.h(149,1): warning C4804: >: небезопасное использование типа "bool" в операции
+  Создание кода...
+H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Tree.h(159,1): warning C4804: >: небезопасное использование типа "bool" в операции
+  ConsoleApplication1.vcxproj -> H:\визуалка\Класворки\coppy\lab-5a\ConsoleApplication1\Debug\ConsoleApplication1.exe
